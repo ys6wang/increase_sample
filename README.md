@@ -1,2 +1,3 @@
 # increase_sample
-To find what effect
+## The goal is to compare different visualizations across distributions and to assess the effect of increasing sample
+##size.
